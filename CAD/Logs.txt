@@ -1,1 +1,3 @@
 Enter Logs here in this format ( mm/dd/year - file changed - describe changes to the best of ability )
+
+6/10/2025 - Prototype1Drone - Intial design and model made
