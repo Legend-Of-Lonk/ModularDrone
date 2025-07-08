@@ -3,3 +3,5 @@ Enter Logs here in this format ( mm/dd/year - file changed - describe changes to
 6/10/2025 - Prototype1Drone - Intial design and model made
 
 6/20/2025 - PrototypeII - New design and model made
+
+6/27/2025 - PrototypeII Updated - Supports and clips for lower tray + Exteneded/Long arms made, Motor mounts added to new and existing arms
