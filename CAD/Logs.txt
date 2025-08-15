@@ -5,3 +5,7 @@ Enter Logs here in this format ( mm/dd/year - file changed - describe changes to
 6/20/2025 - PrototypeII - New design and model made
 
 6/27/2025 - PrototypeII Updated - Supports and clips for lower tray + Exteneded/Long arms made, Motor mounts added to new and existing arms
+
+7/25/2025 - Prototype III - Lower tray mounting points were thickened, Mounting points on arm and Support dimensions adjusted to match new Lower tray size
+
+8/9/2025 - Prototpye III Updated - Nano plate & X-brace were given a support beam on each corner (attaches to arm) to stiffen the arm mounts and negate any bowing/sagging from weight
